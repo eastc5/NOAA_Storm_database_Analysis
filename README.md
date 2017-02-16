@@ -8,4 +8,4 @@ The repo contains the following files:
 * Original Data file that was downloaded for the assigment
 * Folder of PNG figures used in the write up. 
 
-YOu can find a compiled version of the assigment on Rpubs here: http://rpubs.com/eastc5/250584
+You can find a compiled version of the assigment on Rpubs here: http://rpubs.com/eastc5/250584
